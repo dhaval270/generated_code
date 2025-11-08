@@ -1,0 +1,1 @@
+print(truncate_number(3.5))  # Expected output: 0.5
